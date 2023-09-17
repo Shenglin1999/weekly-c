@@ -1,0 +1,64 @@
+*{
+    margin:0;
+    padding :0;
+    box-sizing:border-box;
+}
+.container {
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    line-height: 50px;
+    width: 2000px;
+    height: 2100px;
+    outline: double 10px #326ddb;
+    margin: auto;
+    background-color: rgb(218, 253, 248);
+}
+
+.one{
+font-weight: 600;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.two{
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+.three{
+       font-weight: 200;
+       font-style:oblique;
+       font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      }
+      .four{
+        font-weight: 200;
+        font-style:oblique;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       }
+       .five{
+        font-size: large;
+        font-weight: 200;
+        font-style:oblique;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       }
+.six{
+    font-size: 20px;
+    font-weight: 400;
+    font-style:italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration:underline;
+}
+
+.container h1{
+    padding: 30px;
+    color: rgb(177, 89, 89);
+
+
+}
+
+.Highlight{
+background-color: rgb(224, 194, 165);
+
+}
+body {
+    background-color: rgb(255, 230, 240);
+  }
+  
